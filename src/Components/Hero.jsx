@@ -9,8 +9,8 @@ export default function Hero() {
             <img
               className="max-md:w-full"
               src={Banner}
-              width="386"
-              height="340"
+              width="486"
+              height="480"
               alt="frame"
             />
           </div>
