@@ -1,0 +1,1 @@
+This React-based task management app uses state management and props to handle tasks dynamically. It includes features like add, edit, delete, and favorite toggling through React hooks, with components like TaskList and TaskActions for a modular, intuitive interface.
